@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Estamos haciendo pruebas
+=======
+Hola mundo!
+¿qué tal', ¿como estas?
+>>>>>>> 18b751a8d844267c92258e260419bc62669b9d84
